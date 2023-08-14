@@ -8,10 +8,10 @@
 html, body{
   height: 100vh;
   width: 100vw;
-  background-color: rgb(226, 218, 218);
+  background-color: rgb(230, 230, 230);
 }
 body{
-  background: url('C:\Users\samys\OneDrive\Documentos\GitHub\projeto-rede\projeto\pacote-d013\imagens\tela-youtube.png')
+  background: url('C:\Users\samys\OneDrive\Documentos\GitHub\projeto-rede\projeto\pacote-d013\imagens\fundo-madeira.jpg')
   no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
@@ -32,7 +32,7 @@ section#telefone{
   height: 627px;
   width: 311px;
   
-  background: url('C:\Users\samys\OneDrive\Documentos\GitHub\projeto-rede\projeto\pacote-d013\imagens\tela-github.jpg');
+  background: url('C:\Users\samys\OneDrive\Documentos\GitHub\projeto-rede\projeto\pacote-d013\imagens\frame-iphone.png');
 }
 iframe{
   position: relative;
