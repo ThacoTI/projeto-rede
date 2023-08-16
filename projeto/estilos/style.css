@@ -9,6 +9,7 @@ html, body{
   height: 100vh;
   width: 100vw;
   background-color: rgb(230, 230, 230);
+  background: url('');
 }
 body{
   background: url('C:\Users\samys\OneDrive\Documentos\GitHub\projeto-rede\projeto\pacote-d013\imagens\fundo-madeira.jpg')
@@ -32,7 +33,7 @@ section#telefone{
   height: 627px;
   width: 311px;
   
-  background: url('C:\Users\samys\OneDrive\Documentos\GitHub\projeto-rede\projeto\pacote-d013\imagens\frame-iphone.png');
+  background: url('C:\Users\samys\OneDrive\Documentos\GitHub\projeto-rede\projeto\pacote-d013\imagens\fundo-madeira.jpg');
 }
 iframe{
   position: relative;
